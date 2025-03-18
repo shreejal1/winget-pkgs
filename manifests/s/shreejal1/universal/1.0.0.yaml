@@ -1,0 +1,10 @@
+Id: shreejal1.universal
+Name: Universal Video Downloader
+Publisher: shreejal1
+Version: 1.0.0
+License: MIT
+InstallerType: exe
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://github.com/shreejal1/universal/releases/download/v1.0.0/vid-downloader.exe
+    InstallerSha256: 919884a2ce81eeb7fc44e58557668ff635c0446994ad40b3f698ffd76c56ca06
